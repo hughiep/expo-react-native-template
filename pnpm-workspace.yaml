@@ -1,1 +1,3 @@
 nodeLinker: hoisted
+# By default, a project created with create-expo-app and pnpm uses node-linker with its value set to hoisted to install dependencies.
+# https://docs.expo.dev/more/create-expo/#pnpm

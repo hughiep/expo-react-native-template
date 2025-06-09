@@ -1,0 +1,4 @@
+*.log
+
+.expo/
+node_modules/
