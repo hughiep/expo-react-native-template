@@ -1,0 +1,22 @@
+# editorconfig.org
+# This configuration requuires EditorConfig support in your editor.
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+max_line_length = 80
+
+# Use tabs for indentation in Makefiles
+[*.md]
+indent_style = space
+[*.json]
+indent_style = space
+[*.yml]
+indent_style = space
+[*.yaml]
+indent_style = space
